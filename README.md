@@ -12,4 +12,5 @@ next step you can init code on nodemcu8266 (https://github.com/bariss48/Smart_Wa
 #### picture-3 ( 29 cm )
 <img width="870" alt="Ekran Resmi 2021-12-30 21 13 29" src="https://user-images.githubusercontent.com/50153950/147777750-0d5f6afc-e6fd-4772-808c-be4aaa6729be.png">
 #### picture-4
-![f09e9c27-02ea-45cd-b65d-398c0d72a3a7](https://user-images.githubusercontent.com/50153950/147777505-4349737a-eb93-4057-b049-0a6e93b3545e.jpg)
+<img width="870" alt="Ekran Resmi 2021-12-30 21 13 29" src="https://user-images.githubusercontent.com/50153950/147778605-e80d252a-4032-4063-a35b-412ac5b41cc1.jpg">
+
